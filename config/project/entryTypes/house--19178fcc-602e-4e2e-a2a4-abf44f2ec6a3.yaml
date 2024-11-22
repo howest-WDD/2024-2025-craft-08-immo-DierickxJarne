@@ -131,6 +131,38 @@ fieldLayouts:
             userCondition: null
             warning: null
             width: 100
+          -
+            dateAdded: '2024-11-22T08:31:53+00:00'
+            elementCondition: null
+            fieldUid: aafc78a0-aaf5-42e3-b98e-8c985c9691ab # Carousel
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a3946055-bd9a-44d6-be3d-f52fdf689199
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            dateAdded: '2024-11-22T08:31:53+00:00'
+            elementCondition: null
+            fieldUid: e40d6760-127c-4b8a-a227-7148c8e9991b # Strengths
+            handle: null
+            includeInCards: false
+            instructions: null
+            label: null
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 8e673f13-41a3-4da9-8758-6469ab01affd
+            userCondition: null
+            warning: null
+            width: 100
         name: Content
         uid: 13991d56-8061-47b9-91ea-b2e1816cb0dc
         userCondition: null
